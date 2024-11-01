@@ -36,5 +36,6 @@ like so:
 | Creator | Mod title | Description | Difficulty |
 | --- | --- | --- | --- |
 | *creator_name* | [*Mod Title*](./creator_here/mod_folder_name) | *Example description (short).* |:green_heart::blue_heart::heart: |
-| winningfaith81 | [KlipperScreen Images](./KlipperScreen) | Fancy Images to use for booting splash screens and KlipperScreen Backgrounds | :blue_heart: |
+| winningfaith81 | [Klipper Mods](./Klipper) | Fancy Images to use with Klipper and KlipperScreen | :blue_heart: |
+| winningfaith81 | [Klipper Boot Screens](./Klipper/Boot Splash Screens) | Zero G branded Images for Boot / Splash screens | :blue_heart: |
 
